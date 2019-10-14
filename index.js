@@ -34,4 +34,11 @@ function johnLennonFacts(facts) {
 // number is less than `15`. The function should return the array with the strings
 // `"I love the Beatles!"`.
 
-
+function iLoveTheBeatles(number) {
+  var resultArray = [];
+  
+  
+  
+  
+  return resultArray;
+}
