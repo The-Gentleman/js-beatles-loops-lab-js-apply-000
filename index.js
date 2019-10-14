@@ -40,7 +40,7 @@ function iLoveTheBeatles(number) {
   do {
     
     
-  } while {}
+  } while ()
   
   
   return resultArray;
