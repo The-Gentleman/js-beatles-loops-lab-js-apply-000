@@ -28,15 +28,3 @@ theBeatlesPlay('John Lennon', 'guitar');
 // every fact. The function should return an array of strings with exclamation
 // points.
 
-function johnLennonFacts(facts) {
-var resultArray = []; 
-
-var i = 0;
-
-while (i < facts.length) {
-  var str = facts + '!!!';
-}
-  i++;
-  
- return resultArray.push(str);
-}
