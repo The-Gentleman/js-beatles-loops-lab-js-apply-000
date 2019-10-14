@@ -29,15 +29,15 @@ theBeatlesPlay('John Lennon', 'guitar');
 // points.
 
 function johnLennonFacts(facts) {
-  var factsArray = [];
+ var factsArray = [];
   
-  var i = 0;
+ var i = 0;
 
-while (i < facts.length) {
-  console.log(i);
+  while (i < facts.length) {
+  factsArray.push(facts + '!!!');
 
   i++;
-}
+  }
   
-  return factsArray;
+ return factsArray;
 }
