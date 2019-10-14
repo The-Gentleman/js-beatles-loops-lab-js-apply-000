@@ -33,7 +33,7 @@ function johnLennonFacts(facts) {
   
   var i = 0;
 
-while (i < 10) {
+while (i < facts.length) {
   console.log(i);
 
   i++;
